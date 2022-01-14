@@ -14,6 +14,6 @@ import { PisFormatDirective } from './shared/directives/pis-format.directive';
   declarations: [MakeTheJobComponent, CpfFormatDirective, CepFormatDirective, CnpjFormatDirective, DateFormatDirective, DateWithDashersFormatDirective, KeyboardMouseLockFormatDirective, MoneyFormatDirective, PhoneFormatDirective, PhoneDdiFormatDirective, PisFormatDirective],
   imports: [
   ],
-  exports: [MakeTheJobComponent, CpfFormatDirective]
+  exports: [MakeTheJobComponent, CpfFormatDirective, CepFormatDirective, CnpjFormatDirective, DateFormatDirective, DateWithDashersFormatDirective, KeyboardMouseLockFormatDirective, MoneyFormatDirective, PhoneFormatDirective, PhoneDdiFormatDirective, PisFormatDirective]
 })
 export class MakeTheJobModule { }
