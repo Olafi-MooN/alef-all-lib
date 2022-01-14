@@ -1,6 +1,6 @@
 {
-  "name": "@olafi-moon/make-for-me",
-  "version": "0.0.5",
+  "name": "@olafi-moon/make-the-job",
+  "version": "1.0.1",
   "peerDependencies": {
     "@angular/common": "^9.1.12",
     "@angular/core": "^9.1.12"

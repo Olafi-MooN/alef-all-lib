@@ -2,7 +2,7 @@ This library aims to facilitate the formatting of inputs in angular.
 It is still being developed and is in a trial version.
 
 <p align="center">
-  <img height="100px" width="200px" style="text-align: center;" src="src\assets\img\logo-completo.png">
+  <img height="100px" width="200px" style="text-align: center;" src="https://blogger.googleusercontent.com/img/a/AVvXsEiMZmdYp6lhwmfxoaDqKcQNqBznhGSemNxNOixRqqr_0in1kgAt02ZV-84avJtvCDDe0ZH8UPuURCgtXq-mvssNEFnBPrhbrnxqrEl7ue-V5XKsO4cJwFeGrFc-HE8bbZQaLxV-Q-trXiooRouQW0I3LDXKkdU4_yDNFLWuUe1qztj_BshM13rOmCpu=s291">
   <h1 align="center">Alef All Library Inputs</h1>
 </p>
 
@@ -15,9 +15,9 @@ It is still being developed and is in a trial version.
 
 Use appropriate version based on your Angular version.
 
-| Angular 12  |
+| Angular 9  |
 | ----------- | 
-| >= `v^13.1.0` |
+| >= `v^9.1.13` |
 
 
 
